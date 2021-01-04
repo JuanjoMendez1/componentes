@@ -1,0 +1,4 @@
+#Thu Jul 02 23:18:58 CDT 2020
+base.0=/Users/juan/Desktop/Flutter/componentes/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
